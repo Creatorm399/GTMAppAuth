@@ -1,3 +1,4 @@
+![Screenshot_2024-01-18-00-19-29-70_a938ee3707de8b8e33196add47b296b5](https://github.com/google/GTMAppAuth/assets/155601302/6e6d400e-d797-4a9b-a165-1858bcccf0c2)
 [![Version](https://img.shields.io/cocoapods/v/GTMAppAuth.svg?style=flat)](https://cocoapods.org/pods/GTMAppAuth)
 [![Platform](https://img.shields.io/cocoapods/p/GTMAppAuth.svg?style=flat)](https://cocoapods.org/pods/GTMAppAuth)
 [![License](https://img.shields.io/cocoapods/l/GTMAppAuth.svg?style=flat)](https://cocoapods.org/pods/GTMAppAuth)
